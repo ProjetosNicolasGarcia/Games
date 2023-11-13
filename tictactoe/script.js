@@ -13,7 +13,7 @@ const currentPlayerTurn = () => `É a vez do ${currentPlayer} jogar`;
 statusDisplay.innerHTML = currentPlayerTurn();
 
 document.querySelectorAll('.cell').forEach(cell => cell.addEventListener('click', handleCellClick));
-document.querySelector('.game--restart').forEach(cell => cell.addEventListener('click', handleRestartGame));
+document.querySelector('.game--restart').addEventListener('click', handleRestartGame);
 
 function handleCellClick(clickedCellEvent) {
     const clickedCell = clickedCellEvent.target;
