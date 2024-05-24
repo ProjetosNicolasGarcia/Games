@@ -1,3 +1,3 @@
-Jogo da memória
+Memory game
 
 http://projetosnicolasgarcia.github.io/games/memorygame/index.html
