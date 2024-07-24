@@ -1,3 +1,3 @@
 Memory game
 
-http://projetosnicolasgarcia.github.io/games/memorygame/index.html
+http://projetosnicolasgarcia.github.io/Games/memorygame/index.html
